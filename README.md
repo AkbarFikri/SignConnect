@@ -54,9 +54,7 @@ List all the Tech Stack we use to build the system in this this project.
 - [FrontEnd](https://github.com/AkbarFikri/signconnect_frontend)
 - [BackEnd](https://github.com/AkbarFikri/signconnect_backend)
 
-```
-Note : We provide more detail explanation in our FrontEnd and BackEnd Repository, So Please to check it.
-```
+_Note : We provide more detail explanation in our FrontEnd and BackEnd Repository, So Please to check it._
 
 ### 📁 File Structure
 

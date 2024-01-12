@@ -58,7 +58,7 @@ _Note : We provide more detail explanation (Include the **Screenshot**) in our F
 
 ### 📁 File Structure
 
-Add a file structure here with the basic details about files, below is an example.
+Here is our File Structure
 
 ```
 ├───signconnect_backend/

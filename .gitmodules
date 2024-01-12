@@ -1,0 +1,6 @@
+[submodule "signconnect_backend"]
+	path = signconnect_backend
+	url = https://github.com/AkbarFikri/signconnect_backend
+[submodule "signconnect_frontend"]
+	path = signconnect_frontend
+	url = https://github.com/AkbarFikri/signconnect_frontend

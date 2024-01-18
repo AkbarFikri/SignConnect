@@ -11,6 +11,9 @@ Application to support interest in learning sign language as well as assistant s
 - [SignConnect Apps](#signconnect-apps)
   - [📒 Index](#-index)
   - [🔰 About](#-about)
+  - [⚡ Quick Start](#-quick-start)
+    - [🔌 Installation](#-installation)
+    - [📦 Commands](#-commands)
   - [🔧 Development](#-development)
     - [📓 Tech Stack](#-tech-stack)
     - [🔩 Our Code Repository](#-our-code-repository)
@@ -34,6 +37,41 @@ This application is designed to be an informative and fun mobile-based platform 
 3. Accessibility Support (For Those Who Need a Translator)
    - Customizable Settings. Users can adjust translation preferences according to their needs.
    - Emergency Assistance. Emergency facility for urgent situations requiring the assistance of a translator.
+
+## ⚡ Quick Start
+
+Here's the step for installation and start our app.
+
+### 🔌 Installation
+
+- First, make sure that the flutter you have is the `latest versin.`
+- Next, you can clone this repository with the command below
+
+```
+$ git clone https://github.com/AkbarFikri/SignConnect
+```
+
+- Enter the frontend folder using the command below
+
+```
+$ cd signconnect_frontend
+```
+
+- Download all packages needed by Flutter by running the command below
+
+```
+$ flutter pub get
+```
+
+**❗Installation Finish!!**
+
+### 📦 Commands
+
+- To run the application you can directly open main.dart then click the run without debugging button in the right corner of vscode or run the command below
+
+```
+$ flutter run
+```
 
 ## 🔧 Development
 

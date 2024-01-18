@@ -67,7 +67,7 @@ $ flutter pub get
 
 ### 📦 Commands
 
-- To run the application you can directly open main.dart then click the run without debugging button in the right corner of vscode or run the command below
+- To run the application you can directly open `main.dart` then click the `run without debugging` button in the right corner of vscode or run the command below
 
 ```
 $ flutter run
